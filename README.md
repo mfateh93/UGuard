@@ -1,2 +1,2 @@
-# USafe
+# UGuard
 Self defense tool.
